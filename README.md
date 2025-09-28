@@ -77,8 +77,10 @@ Packages: dplyr, ggplot2
 
 ▶️ Open the R Notebook and run each chunk to reproduce the results and plots.
 
-📷 Output Preview
-<img width="1000" height="600" alt="R project2 image" src="https://github.com/user-attachments/assets/04a027fe-66f2-4692-9664-a84f58d3e477" />
+<img width="1000" height="600" alt="Project 2 Image" src="https://github.com/user-attachments/assets/52777803-8c73-4fa2-ad9c-d04515d18c80" />
+
+
+
 
 
 
